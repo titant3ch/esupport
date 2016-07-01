@@ -1,5 +1,11 @@
-Larry Larson  1407  160527-000033  CIC Work Request
-Larry Larson  1418  160527-000072  CIC Work Request
-Larry Larson  1449  160527-000098  CIC Work Request
-Larry Larson  1455  160527-000112  Sent request for validation information
-Marie Hamilton  2:22p  160527-000027  Successful validation
+Larry Larson  1532  160630-000208  Sent request for validation information
+Larry Larson  1539  160630-000189  Sent request for validation information
+Marie Hamilton  3:28p  160630-000230  Contact name and phone number requested
+Marie Hamilton  3:30p  160630-000238  Contact name and phone number requested
+Marie Hamilton  3:32p  160630-000269  Contact name and phone number requested
+Marie Hamilton  3:34p  160630-000271  Contact name and phone number requested
+Marie Hamilton  4:15p  160630-000271  Successful validation
+Marie Hamilton  4:27p  160630-000275  Contact name and phone number requested
+Marie Hamilton  8:39a  160630-000269  Successful validation
+Marie Hamilton  8:52a  160630-000306  CIC Work Request
+Marie Hamilton  9:07a  160630-000316  Contact name and phone number requested
